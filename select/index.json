@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "さよならの夏～コクリコ坂から～",
+  "base_artist": "にんじん",
+  "createdAt": "2026-02-25T11:12:08.829745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならの夏~コクリコ坂から~",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/01_さよならの夏~コクリコ坂から~_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよならの夏〜コクリコ坂から〜 - 主題歌別バージョン",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/02_さよならの夏〜コクリコ坂から〜_-_主題歌別バージョン_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよならの夏 ～コクリコ坂から～ (主題歌 別バージョン)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/03_さよならの夏_~コクリコ坂から~_(主題歌_別バージョン)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さよならの夏 〜コクリコ坂から〜 (オルゴール)",
+      "artist": "オルゴール ブルーム",
+      "has_synced": false,
+      "path": "select/04_さよならの夏_〜コクリコ坂から〜_(オルゴール)_オルゴール_ブルーム.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよならの夏(コクリコ坂から)",
+      "artist": "Kyoto Piano Ensemble",
+      "has_synced": false,
+      "path": "select/05_さよならの夏(コクリコ坂から)_Kyoto_Piano_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さよならの夏〜コクリコ坂から〜",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/06_さよならの夏〜コクリコ坂から〜_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さよならの夏~コクリコ坂から~(inst)",
+      "artist": "Satoshi Takebe",
+      "has_synced": false,
+      "path": "select/07_さよならの夏~コクリコ坂から~(inst)_Satoshi_Takebe.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "さよならの夏〜コクリコ坂から〜",
+      "artist": "Teshima, Aoi",
+      "has_synced": true,
+      "path": "select/08_さよならの夏〜コクリコ坂から〜_Teshima,_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "さよならの夏〜コクリコ坂から〜",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/09_さよならの夏〜コクリコ坂から〜_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "さよならの夏～コクリコ坂から～",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/10_さよならの夏~コクリコ坂から~_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "さよならの夏～コクリコ坂から～",
+      "artist": "Teshima, Aoi",
+      "has_synced": true,
+      "path": "select/11_さよならの夏~コクリコ坂から~_Teshima,_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "さよならの夏～コクリコ坂から～(主題歌 別バージョン)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/12_さよならの夏~コクリコ坂から~(主題歌_別バージョン)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "さよならの夏～コクリコ坂から～(主題歌 別バージョン)",
+      "artist": "Teshima, Aoi",
+      "has_synced": true,
+      "path": "select/13_さよならの夏~コクリコ坂から~(主題歌_別バージョン)_Teshima,_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "01.さよならの夏 ～コクリコ坂から～",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/14_01.さよならの夏_~コクリコ坂から~_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "さよならの夏 ～コクリコ坂から～ (主題歌 別バージョン)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/15_さよならの夏_~コクリコ坂から~_(主題歌_別バージョン)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "13.さよならの夏 ～コクリコ坂から～ (主题歌 别バージョン)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/16_13.さよならの夏_~コクリコ坂から~_(主题歌_别バージョン)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "さよならの夏 ～コクリコ坂から～",
+      "artist": "手嶌葵",
+      "has_synced": false,
+      "path": "select/17_さよならの夏_~コクリコ坂から~_手嶌葵.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "さよならの夏～コクリコ坂から～ (オリジナル・カラオケ)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/18_さよならの夏~コクリコ坂から~_(オリジナル・カラオケ)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "さよならの夏 ～コクリコ坂から～",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/19_さよならの夏_~コクリコ坂から~_Aoi_Teshima.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならの夏～コクリコ坂から～",
+      "artist": "にんじん(from ロクデナシ)",
+      "has_synced": false,
+      "path": "select/pl_01_さよならの夏~コクリコ坂から~_にんじん(from_ロクデナシ).txt"
+    }
+  ]
+}
